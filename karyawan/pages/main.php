@@ -18,6 +18,7 @@ include "components/head.php";
 include_once "../database/database.php";
 ?>
 
+
 <body>
 
     <?php include "components/header.php" ?>

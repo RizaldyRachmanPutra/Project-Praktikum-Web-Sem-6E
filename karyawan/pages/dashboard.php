@@ -24,5 +24,5 @@
       </div>
     </div>
   </div>
-</div>
-</main> 
+  </div>
+</main>
